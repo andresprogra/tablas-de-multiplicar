@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2013\Projects\practica5-tabla-de-multiplicaciòn\practica5-tabla-de-multiplicaciòn\bin\Debug\practica5-tabla-de-multiplicaciòn.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\practica5-tabla-de-multiplicaciòn\practica5-tabla-de-multiplicaciòn\obj\Debug\practica5_tabla_de_multiplicaciòn.Form1.resources
+c:\users\usuario\documents\visual studio 2013\Projects\practica5-tabla-de-multiplicaciòn\practica5-tabla-de-multiplicaciòn\obj\Debug\practica5_tabla_de_multiplicaciòn.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\practica5-tabla-de-multiplicaciòn\practica5-tabla-de-multiplicaciòn\obj\Debug\practica5-tabla-de-multiplicaciòn.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\practica5-tabla-de-multiplicaciòn\practica5-tabla-de-multiplicaciòn\bin\Debug\practica5-tabla-de-multiplicaciòn.exe
+c:\users\usuario\documents\visual studio 2013\Projects\practica5-tabla-de-multiplicaciòn\practica5-tabla-de-multiplicaciòn\bin\Debug\practica5-tabla-de-multiplicaciòn.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\practica5-tabla-de-multiplicaciòn\practica5-tabla-de-multiplicaciòn\bin\Debug\practica5-tabla-de-multiplicaciòn.xml
+c:\users\usuario\documents\visual studio 2013\Projects\practica5-tabla-de-multiplicaciòn\practica5-tabla-de-multiplicaciòn\obj\Debug\practica5-tabla-de-multiplicaciòn.exe
+c:\users\usuario\documents\visual studio 2013\Projects\practica5-tabla-de-multiplicaciòn\practica5-tabla-de-multiplicaciòn\obj\Debug\practica5-tabla-de-multiplicaciòn.xml
+c:\users\usuario\documents\visual studio 2013\Projects\practica5-tabla-de-multiplicaciòn\practica5-tabla-de-multiplicaciòn\obj\Debug\practica5-tabla-de-multiplicaciòn.pdb
