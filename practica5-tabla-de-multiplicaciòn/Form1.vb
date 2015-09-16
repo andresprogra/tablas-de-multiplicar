@@ -18,6 +18,9 @@
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         TextBox1.Text = "Ingresa un numero"
+    End Sub
 
+    Private Sub TextBox1_Click(sender As Object, e As EventArgs) Handles TextBox1.Click
+        TextBox1.Text = ""
     End Sub
 End Class
